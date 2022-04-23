@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Samuel Josino
 ==============================
 
-Web Developer
+Web Developer in apprenticeship 
 -------------
 
 I´ve been learning to code for a few months now, after switching careers. I started with Python as my first language, and then switched to HTML & CSS and currently im learning JavaScript. My main focus right now is frontend development, but i plan to eventually learn backend development.
