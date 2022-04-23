@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Samuel Josino
 ==============================
 
-I´ve been learning to code for a few months now, after switching careers. I started with Python as my first language, and then switched to HTML & CSS and currently im learning JavaScript. My main focus right now is frontend development, but eventually i will try to learn some backend development.
+I´ve been learning to code for a few months now, after switching careers. I started with Python as my first language, and then switched to HTML & CSS and currently im learning JavaScript. My main focus right now is frontend development, but eventually i will learn some backend development.
 
 * 🌍  I'm based in Fortaleza, Brazil
 * ✉️  You can contact me at [s\_josino@hotmail.com](mailto:s_josino@hotmail.com)
